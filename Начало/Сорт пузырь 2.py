@@ -1,4 +1,4 @@
-#len - кол-во элементов в нашем списке
+
 
 mas = list(map(int, input().split()))
 #count = 0
